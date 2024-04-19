@@ -1,0 +1,5 @@
+Jumlah Data Total: 100Jumlah data Berhasil: 100Jumlah data Gagal: 0
+
+JUMLAH DATA Masing-masing State di Bawah ini
+
+Alabama: 2Arizona: 4California: 7Colorado: 2Connecticut: 3District Of Columbia: 5Florida: 6Georgia: 1Idaho: 1Illinois: 3Indiana: 2Iowa: 1Kansas: 5Kentucky: 1Louisiana: 2Maryland: 2Massachusetts: 1Michigan: 2Minnesota: 5Missouri: 2Nebraska: 2Nevada: 1New Jersey: 2New Mexico: 1New York: 6North Carolina: 2Ohio: 4Pennsylvania: 1South Dakota: 1Tennessee: 1Texas: 9Utah: 1Virginia: 6Washington: 1West Virginia: 2Wisconsin: 2
